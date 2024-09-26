@@ -10,7 +10,7 @@ class Child extends Component {
     }
 
     componentWillMount() {
-
+        console.log('first', 1);
     }
 
     componentDidMount() {
